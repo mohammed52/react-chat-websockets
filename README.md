@@ -17,8 +17,6 @@ create Reducers and initialize store, create actions, specify consts for action 
 --
 when an action is dispatched, reducer updates the state of the store
 --
-https://www.usgbc.org/projects/taiga-apparel-pvt-ltd
---
 arr1.concat(arr2) // join arr2 with arr1
 --
 use ST3 extension: sidebarenhancement
@@ -45,5 +43,6 @@ npm run start
 both backend server and front-end have to be running
 --
 front end is running on port 3000
+--
 backend server is running on 8989
 --
