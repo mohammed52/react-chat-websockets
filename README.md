@@ -1,9 +1,10 @@
-React Redux chat app using web sockets
-
-Code for Chat app built with React, Redux, Redux-Saga, and web sockets. 
-
-[Watch the full tutorial!](https://youtu.be/x_fHXt9V3zQ)
 --
+React Redux chat app using web sockets
+--
+Code for Chat app built with React, Redux, Redux-Saga, and web sockets. 
+--
+Tutorial:
+https://youtu.be/x_fHXt9V3zQ
 --
 starts with create-react-app
 --
